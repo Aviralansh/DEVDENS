@@ -1,0 +1,20 @@
+[
+  { 
+    "date": "JAN 27", 
+    "title": "HackerRank Competition", 
+    "type": "DSA Competition", 
+    "desc": "Test your problem solving skills here."
+  },
+  { 
+    "date": "FEB 02", 
+    "title": "Frontend Fista", 
+    "type": "WORKSHOP", 
+    "desc": "Get hands-on experirence on Frontend."
+  },
+  { 
+    "date": "FEB 09", 
+    "title": "Industrial Visit", 
+    "type": "Exposure Program", 
+    "desc": "Real-world exposure to industrial process."
+  }
+]

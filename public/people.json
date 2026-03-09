@@ -1,0 +1,12 @@
+{
+  "mentors": [
+    { "role": "Faculty Mentor", "name": "Aman" },
+    { "role": "Alumni Mentor", "name": "Ms. Vipasha Mam" }
+  ],
+  "executive": [
+    { "role": "President", "name": "Abuzar" },
+    { "role": "Vice President", "name": "Nikhil" },
+    { "role": "Secretary", "name": "Ananya" },
+    { "role": "Tech Head", "name": "Aviral" }
+  ]
+}
